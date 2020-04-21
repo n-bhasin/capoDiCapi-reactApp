@@ -13,10 +13,10 @@ HENRY MWENGE- 101286818
 
 # Instructions to run the express app
 
-cd capo-di-capi-express
+cd capo-di-capi-express <br />
 node app.js
 
 # Instructions to run the react app
 
-cd capo-di-capi-react
+cd capo-di-capi-react <br />
 npm start
