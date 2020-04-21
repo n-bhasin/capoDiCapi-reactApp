@@ -17,9 +17,9 @@ class Chat extends Component {
   };
   async componentDidMount() {
     const response = await axios.get(
-      `http://localhost:3002/api/capodicapi/chat`
+      `https://capodicapi.herokuapp.com/api/capodicapi/chat`
     );
-
+      //api url for localhost: http://localhost:3001/api/capodicapi/chat
     const chats = response.data;
     const rooms = [{ roomname: "All Rooms" }, ...getRooms()];
 
