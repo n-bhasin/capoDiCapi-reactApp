@@ -15,12 +15,13 @@ class Chat extends Component {
   };
   async componentDidMount() {
     const response = await axios.get(
-      `http://localhost:3002/api/capodicapi/log`
+      `https://capodicapi.herokuapp.com/api/capodicapi/log`
     );
     const logs = response.data;
     console.log(logs);
     this.setState({ logs });
   }
+//http://localhost:3001/api/capodicapi/log
   handlePage = (page) => {
     this.setState({ currentPage: page });
   };
