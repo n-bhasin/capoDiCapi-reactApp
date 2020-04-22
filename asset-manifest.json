@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/n-bhasin/capoDiCapi-reactApp/static/css/main.d1b05096.chunk.css",
-    "main.js": "/n-bhasin/capoDiCapi-reactApp/static/js/main.f2edba0c.chunk.js",
-    "main.js.map": "/n-bhasin/capoDiCapi-reactApp/static/js/main.f2edba0c.chunk.js.map",
-    "runtime-main.js": "/n-bhasin/capoDiCapi-reactApp/static/js/runtime-main.6c138761.js",
-    "runtime-main.js.map": "/n-bhasin/capoDiCapi-reactApp/static/js/runtime-main.6c138761.js.map",
-    "static/css/2.6bab7436.chunk.css": "/n-bhasin/capoDiCapi-reactApp/static/css/2.6bab7436.chunk.css",
-    "static/js/2.2b362558.chunk.js": "/n-bhasin/capoDiCapi-reactApp/static/js/2.2b362558.chunk.js",
-    "static/js/2.2b362558.chunk.js.map": "/n-bhasin/capoDiCapi-reactApp/static/js/2.2b362558.chunk.js.map",
-    "index.html": "/n-bhasin/capoDiCapi-reactApp/index.html",
-    "precache-manifest.0f0df5fc39849f927bfff807b8d31dbb.js": "/n-bhasin/capoDiCapi-reactApp/precache-manifest.0f0df5fc39849f927bfff807b8d31dbb.js",
-    "service-worker.js": "/n-bhasin/capoDiCapi-reactApp/service-worker.js",
-    "static/css/2.6bab7436.chunk.css.map": "/n-bhasin/capoDiCapi-reactApp/static/css/2.6bab7436.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/n-bhasin/capoDiCapi-reactApp/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2b362558.chunk.js.LICENSE.txt": "/n-bhasin/capoDiCapi-reactApp/static/js/2.2b362558.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/n-bhasin/capoDiCapi-reactApp/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/capoDiCapi-reactApp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/capoDiCapi-reactApp/static/js/main.07cbd510.chunk.js",
+    "main.js.map": "/capoDiCapi-reactApp/static/js/main.07cbd510.chunk.js.map",
+    "runtime-main.js": "/capoDiCapi-reactApp/static/js/runtime-main.c02e9978.js",
+    "runtime-main.js.map": "/capoDiCapi-reactApp/static/js/runtime-main.c02e9978.js.map",
+    "static/css/2.f351a985.chunk.css": "/capoDiCapi-reactApp/static/css/2.f351a985.chunk.css",
+    "static/js/2.2b362558.chunk.js": "/capoDiCapi-reactApp/static/js/2.2b362558.chunk.js",
+    "static/js/2.2b362558.chunk.js.map": "/capoDiCapi-reactApp/static/js/2.2b362558.chunk.js.map",
+    "index.html": "/capoDiCapi-reactApp/index.html",
+    "precache-manifest.0b5ef81c0d07945efc7fdfe2f58ffefc.js": "/capoDiCapi-reactApp/precache-manifest.0b5ef81c0d07945efc7fdfe2f58ffefc.js",
+    "service-worker.js": "/capoDiCapi-reactApp/service-worker.js",
+    "static/css/2.f351a985.chunk.css.map": "/capoDiCapi-reactApp/static/css/2.f351a985.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/capoDiCapi-reactApp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2b362558.chunk.js.LICENSE.txt": "/capoDiCapi-reactApp/static/js/2.2b362558.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/capoDiCapi-reactApp/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c138761.js",
-    "static/css/2.6bab7436.chunk.css",
+    "static/js/runtime-main.c02e9978.js",
+    "static/css/2.f351a985.chunk.css",
     "static/js/2.2b362558.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f2edba0c.chunk.js"
+    "static/js/main.07cbd510.chunk.js"
   ]
 }
